@@ -60,11 +60,28 @@ Now you can go to your favorite web browser like Google Crome
 <br>and go to this page: http://localhost:3000/
 
 #### Use examples
-On terminal you can query some values, like:
+
 
 ```js
 rails console
 ```
+##### To insert some data:
+We can create an author
+```js
+x = Author.create(username: "userA", email: "abc@email.com", password: "password123")
+```
+
+Make a post
+```js
+y = x.posts.create(title: "new post", body: "this is a post")
+```
+
+Make a comment
+```js
+y.comments.create(body: "this is a comment")
+```
+
+##### You can query some values, like:
 
 retrieve a user
 ```js
