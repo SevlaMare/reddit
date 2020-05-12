@@ -3,7 +3,8 @@
 
 ![screenshot](screenshot.png)
 
-<br>The main purpose here is to work with models and validations.<br>
+<br>This project consists of using Ruby On Rails to build a mini blog post system, based on command line. The application allows users to create posts and make comments.
+<br>
 
 ## Content
 
