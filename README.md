@@ -53,20 +53,12 @@ Otherwise just hit (Download Zip) on green button (Clone or Download) at top of 
 
 
 #### Run
-To run, from the application folder, just type on terminal:
-```js
-rails server
-```
-Now you can go to your favorite web browser like Google Crome
-<br>and go to this page: http://localhost:3000/
 
-#### Use examples
-
-
+Go to project folder and run on terminal:
 ```js
 rails console
 ```
-##### To insert some data:
+#### To insert some data:
 We can create an author
 ```js
 x = Author.create(username: "userA", email: "abc@email.com", password: "password123")
@@ -82,7 +74,7 @@ Make a comment
 Post.first.comments.create(body: "some text", user_id: 1)
 ```
 
-##### You can query some values, like:
+#### You can query some values, like:
 
 retrieve a user
 ```js
