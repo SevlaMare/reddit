@@ -74,12 +74,12 @@ x = Author.create(username: "userA", email: "abc@email.com", password: "password
 
 Make a post
 ```js
-y = x.posts.create(title: "new post", body: "this is a post")
+x.posts.create(title: "new post", body: "this is a post")
 ```
 
 Make a comment
 ```js
-y.comments.create(body: "this is a comment")
+Post.first.comments.create(body: "some text", user_id: 1)
 ```
 
 ##### You can query some values, like:
