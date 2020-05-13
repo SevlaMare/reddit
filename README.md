@@ -121,11 +121,11 @@ A special thanks for the code reviewers.
 
 ## Author
 
-👤 **Rafael Silva**
+👤 **Rafael Nazario**
 
-- Github: [@SevlaMare](https://github.com/SevlaMare)
-- Twitter: [#SevlaMare)](https://twitter.com/SevlaMare)
-- Linkedin: [SevlaMare)](https://www.linkedin.com/in/sevlamare)
+- Github: [@rsnazario](https://github.com/rsnazario)
+- Twitter: [@rsnazario](https://twitter.com/rsnazario)
+- Linkedin: [Rafael Nazario](https://www.linkedin.com/in/rafael-nazario-692b8293/)
 
 👤 **Thiago Miranda**
 
